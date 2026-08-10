@@ -17,6 +17,7 @@
 ### 变更
 
 - 更新 `apps/qtcloud-project` 子模块：重构 Flutter 客户端为项目管理框架骨架（首页项目列表、项目详情十大知识领域导航、范围管理页）
+- 更新 `apps/qtcloud-project` 子模块：配置 Studio 部署 CI 与基础设施 IaC（OSS/CDN/DNS，`project.cloud.quanttide.com`）、应用名称统一为量潮项目云
 
 ## [0.1.0] - 2026-08-10
 
