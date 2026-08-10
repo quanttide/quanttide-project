@@ -17,6 +17,7 @@
 | 路径 | 类型 | 说明 |
 |------|------|------|
 | `apps/qtcloud-project` | 子模块 | 项目管理云服务（独立仓库 `quanttide/qtcloud-project`） |
+| `apps/qtdata` | 子模块 | 量潮数据（独立仓库 `quanttide/qtdata`） |
 | `docs/handbook` | 子模块 | 项目管理手册 |
 | `docs/tutorial` | 子模块 | 项目管理教程 |
 | `docs/specification` | 子模块 | 项目管理规范 |

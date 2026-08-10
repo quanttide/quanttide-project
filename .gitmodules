@@ -13,3 +13,6 @@
 [submodule "packages/quanttide-project-toolkit"]
 	path = packages/quanttide-project-toolkit
 	url = https://github.com/quanttide/quanttide-project-toolkit.git
+[submodule "apps/qtdata"]
+	path = apps/qtdata
+	url = https://github.com/quanttide/qtdata.git
