@@ -1,0 +1,15 @@
+[submodule "apps/qtcloud-project"]
+	path = apps/qtcloud-project
+	url = https://github.com/quanttide/qtcloud-project.git
+[submodule "docs/handbook"]
+	path = docs/handbook
+	url = https://github.com/quanttide/quanttide-handbook-of-project-management.git
+[submodule "docs/tutorial"]
+	path = docs/tutorial
+	url = https://github.com/quanttide/quanttide-tutorial-of-project-management.git
+[submodule "docs/specification"]
+	path = docs/specification
+	url = https://github.com/quanttide/quanttide-specification-of-project-management.git
+[submodule "packages/quanttide-project-toolkit"]
+	path = packages/quanttide-project-toolkit
+	url = https://github.com/quanttide/quanttide-project-toolkit.git
