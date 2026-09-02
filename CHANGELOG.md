@@ -13,6 +13,21 @@
 ### 新增
 
 - 注册子模块：`apps/qtdata`（量潮数据）
+- 注册子模块：`examples/default`（项目管理实验室，quanttide-laboratory-of-project-management）
+- 注册子模块：`data/context`（项目管理语境，quanttide-context-of-project-management）
+- 注册子模块：`data/journal`（项目管理日志，quanttide-journal-of-project-management）
+- 注册子模块：`data/profile`（项目管理档案，quanttide-profile-of-project-management）
+- 注册子模块：`data/intention`（项目管理意图，quanttide-intention-of-project-management）
+- 注册子模块：`data/roadmap`（项目管理路线图，quanttide-roadmap-of-project-management）
+- 注册子模块：`data/insight`（项目管理洞察，quanttide-insight-of-project-management）
+- 注册子模块：`data/brochure`（项目管理宣传册，quanttide-brochure-of-project-management）
+- 注册子模块：`data/report`（项目管理报告，quanttide-report-of-project-management）
+- 注册子模块：`data/library`（项目管理参考，quanttide-library-of-project-management）
+- 注册子模块：`data/history`（项目管理历史，quanttide-history-of-project-management）
+- 注册子模块：`data/archive`（项目管理归档，quanttide-archive-of-project-management）
+- 注册子模块：`docs/bylaw`（项目管理章程，quanttide-bylaw-of-project-management）
+- 注册子模块：`docs/essay`（项目管理札记，quanttide-essay-of-project-management）
+- 注册子模块：`docs/gallery`（项目管理案例集，quanttide-gallery-of-project-management）
 
 ### 变更
 

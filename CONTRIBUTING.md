@@ -4,7 +4,7 @@
 
 本仓库是项目管理领域的**编排仓库**：大部分内容在子模块中。
 
-- **子模块**（`apps/qtcloud-project`、`docs/*`、`packages/quanttide-project-toolkit`）：各自独立仓库，在主仓库**只提交指针更新**
+- **子模块**（`apps/qtcloud-project`、`apps/qtdata`、`data/*`、`docs/*`、`examples/default`、`packages/quanttide-project-toolkit`）：各自独立仓库，在主仓库**只提交指针更新**
 
 ## 提交规范
 
