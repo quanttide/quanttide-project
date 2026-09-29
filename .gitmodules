@@ -16,9 +16,9 @@
 [submodule "apps/qtdata"]
 	path = apps/qtdata
 	url = https://github.com/quanttide/qtdata.git
-[submodule "examples/default"]
-	path = examples/default
-	url = https://github.com/quanttide/quanttide-laboratory-of-project-management.git
+[submodule "examples/quanttide-project-lab"]
+	path = examples/quanttide-project-lab
+	url = https://github.com/quanttide/quanttide-project-lab.git
 [submodule "data/context"]
 	path = data/context
 	url = https://github.com/quanttide/quanttide-context-of-project-management.git

@@ -19,7 +19,7 @@
 | `apps/qtcloud-project` | 子模块 | 项目管理云服务（独立仓库 `quanttide/qtcloud-project`） |
 | `apps/qtdata` | 子模块 | 量潮数据——项目管理前台（独立仓库 `quanttide/qtdata`） |
 | `packages/quanttide-project-toolkit` | 子模块 | 项目管理共享工具集（独立仓库 `quanttide/quanttide-project-toolkit`） |
-| `examples/default` | 子模块 | 项目管理实验室（独立仓库 `quanttide/quanttide-laboratory-of-project-management`） |
+| `examples/quanttide-project-lab` | 子模块 | 项目管理实验室（独立仓库 `quanttide/quanttide-project-lab`） |
 | `data/context` | 子模块 | 项目管理语境 |
 | `data/journal` | 子模块 | 项目管理日志 |
 | `data/profile` | 子模块 | 项目管理档案 |
