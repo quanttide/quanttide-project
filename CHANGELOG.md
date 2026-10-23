@@ -44,4 +44,4 @@
 - 初始化仓库骨架：README、LICENSE（CC BY 4.0）、CHANGELOG、AGENTS
 - 注册子模块：`apps/qtcloud-project`（项目管理云服务）
 - 注册子模块：`docs/handbook`、`docs/tutorial`、`docs/specification`（领域文档）
-- 注册子模块：`packages/quanttide-project-toolkit`（共享工具集）
+- 注册子模块：`packages/quanttide-project-toolkit`（共享标准库）

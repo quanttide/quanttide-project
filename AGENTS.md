@@ -4,7 +4,7 @@
 
 ## 仓库是什么
 
-量潮项目管理编排仓库：`apps/qtcloud-project`（项目管理云服务，子模块）、`docs/*`（领域文档，子模块）、`packages/quanttide-project-toolkit`（共享工具集，子模块，独立仓库 `quanttide/quanttide-project-toolkit`）。
+量潮项目管理编排仓库：`apps/qtcloud-project`（项目管理云服务，子模块）、`docs/*`（领域文档，子模块）、`packages/quanttide-project-toolkit`（共享标准库，子模块，独立仓库 `quanttide/quanttide-project-toolkit`）。
 
 ## 关键文件（按优先级阅读）
 
